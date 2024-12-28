@@ -1,0 +1,22 @@
+Artits name:-
+
+Leonardo da Vinci
+Michelangelo
+Vincent van Gogh
+Salvador Dali
+Edvard Munch
+Rembrandt van Rijn
+
+Discri:-
+  
+These painting are made by Yayi. The size of the painting is 30*30. Company colors have been used in it.
+
+Color:-
+Cadmium Lemon or Cadmium Yellow Light (cool yellow)
+Cadmium Red Light (warm red)
+Alizarin Crimson (cool red)
+Ultramarine Blue (violet blue)
+Dioxazine Purple (violet)
+Cerulean Blue or Phthalo Blue (green blue, dark)
+Viridian Green (cool green, middle value)
+Black.  
